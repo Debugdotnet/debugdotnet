@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debug</h1>
 <h3 align="center">DevOps | SecOps | Reverse Engineering | OWASP Member</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debugdotnet&label=Profile%20views&color=0e75b6&style=flat" alt="debugdotnet" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debugdotnet" alt="debugdotnet" /></a> </p>
-
 - 🌱 I’m currently learning **Kernel Development**
 
 - 📫 How to reach me **dotnetsec@pm.me**
