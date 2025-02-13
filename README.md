@@ -88,8 +88,6 @@
 
 ###
 
-![snake animation](https://github.com/<debugdotnet>/<debugdotnet>/blob/output/github-contribution-grid-snake2.svg)
-
 ###
 
 <div align="center">
