@@ -3,9 +3,10 @@
 
 - 🌱 I’m currently learning **Kernel Development**
 
-- 📫 How to reach me **dotnetsec@pm.me**
+
 
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **dotnetsec@pm.me**
 <p align="left">
 </p>
 
