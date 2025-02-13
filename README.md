@@ -87,12 +87,13 @@
 </div>
 
 ###
+```js
 export default () => ({
 
   askMeAbout: [
     "llm", "knowledge graphs",
     "mathematics", "research"
-    "webdev", "nlp", "data",
+    "Security", "Malware", "NetSec",
   ],
   technologies: {
     "languages": [ "C", "C++", "Python", "Java", "C#", "JavaScript",
@@ -118,11 +119,12 @@ export default () => ({
     "editors": [ "VSCode", "ViM", "Emacs" ]
   },
   memberships: [
-    "OWASP",
     "OffSec Labs",
+    "OWASP",
     ".Net Foundation"
   ]
 });
+```
 ###
 
 
