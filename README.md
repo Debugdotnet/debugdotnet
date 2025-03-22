@@ -15,8 +15,6 @@
 export default () => ({
   askMeAbout: [
     "living-off-the-land methodologies",
-    "covert infrastructure staging",
-    "ring-0 rootkit analysis and mitigation",
     "infrastructure attribution through passive DNS and metadata analysis",
     "digital artifact correlation and timeline reconstruction",
     "analysis of non-standard network protocols",
@@ -28,7 +26,7 @@ export default () => ({
     languages: ["C", "Python", "x86/x64 Assembly", "Go", "Shell"],
     web: ["deep understanding of web application attack vectors", "browser extension security analysis"],
     databases: ["data exfiltration forensics", "analysis of database-centric malware"],
-    applications: ["IDA Pro", "Ghidra", "WinDbg", "network protocol dissection tools", "memory analysis platforms"],
+    applications: ["IDA Pro", "Ghidra", "WinDbg", "network protocol tools", "memory analysis platforms"],
     mathematicsAndStatistics: ["applied cryptography principles", "statistical methods for anomaly detection"],
     machineLearning: ["behavioral malware detection concepts"],
     toolchains: ["custom scripting for analysis automation", "orchestration of dynamic analysis environments", "signature development for threat intelligence"],
@@ -36,7 +34,7 @@ export default () => ({
     cloudOps: ["cloud security architecture and threat landscape"],
     operatingSystems: ["Windows internals", "Linux kernel analysis", "embedded system architectures"],
     iot: ["firmware security analysis"],
-    architectures: ["x86/x64", "ARM", "various processor architectures"],
+    architectures: ["x86/x64", "ARM",],
     mobile: ["mobile platform security", "mobile malware analysis"],
     editors: ["vim", "emacs"],
   },
