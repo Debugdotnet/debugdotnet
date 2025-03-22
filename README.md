@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Debug</h1>
 
-<!--
-**Debugdotnet/debugdotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="center">DevOps | InfoSec | Reversing | Forensics</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNpb2k1ZXQ0dzY5a2MycG1lZWc3NmkyMnp6aDIzY29nYWN2M29vZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KFP1yGEGZ7smVitLhJ/giphy.gif"  />
+</div>
+
+###
+
+```js
+export default () => ({
+
+  askMeAbout: [
+    "living-off-the-land methodologies",
+    "covert infrastructure staging",
+    "ring-0 rootkit analysis and mitigation",
+    "infrastructure attribution through passive DNS and metadata analysis",
+    "digital artifact correlation and timeline reconstruction",
+    "analysis of non-standard network protocols",
+    "adversary emulation and TTP mapping",
+    "exploitation of memory safety vulnerabilities",
+    "UEFI and firmware security assessment",
+  ],
+  technologies: {
+    "languages": [ "C", "Python", "x86/x64 Assembly", "Go", "Shell" ],
+    "web": [ "deep understanding of web application attack vectors", "browser extension security analysis" ],
+    "databases": [ "data exfiltration forensics", "analysis of database-centric malware" ],
+    "applications": [ "IDA Pro", "Ghidra", "WinDbg", "network protocol dissection tools", "memory analysis platforms" ],
+    "mathematicsAndStatistics": [ "applied cryptography principles", "statistical methods for anomaly detection" ],
+    "machineLearning": [ "behavioral malware detection concepts" ],
+    "toolchains": [ "custom scripting for analysis automation", "orchestration of dynamic analysis environments", "signature development for threat intelligence" ],
+    "devOps": [ "secure infrastructure deployment for research" ],
+    "cloudOps": [ "cloud security architecture and threat landscape" ],
+    "operatingSystems": [ "Windows internals", "Linux kernel analysis", "embedded system architectures" ],
+    "iot": [ "firmware security analysis" ],
+    "architectures": [ "x86/x64", "ARM", "various processor architectures" ],
+    "mobile": [ "mobile platform security", "mobile malware analysis" ],
+    "editors": [ "vim", "emacs" ]
+  },
+  memberships: [
+    "limited distribution threat intelligence sharing groups",
+    "select vulnerability research mailing lists",
+    "attendee of closed-door technical security workshops",
+  ]});
+###
